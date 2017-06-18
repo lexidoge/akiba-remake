@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL034C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c3588_-2057_-1199"
+	}
+}

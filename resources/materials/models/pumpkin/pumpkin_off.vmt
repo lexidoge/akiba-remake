@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pumpkin/pumpkin"
+	"$bumpmap" "models/pumpkin/pumpkin_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"	
+	"$surfaceprop" "Watermelon"
+}

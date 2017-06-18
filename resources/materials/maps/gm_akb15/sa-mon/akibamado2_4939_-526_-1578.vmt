@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/AKIBAMADO2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c4939_-526_-1578"
+	}
+}

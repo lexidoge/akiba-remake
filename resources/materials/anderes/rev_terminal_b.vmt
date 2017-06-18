@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "anderes/rev_terminal_b"
+	"$bumpmap" "anderes/rev_terminal_n"
+	"$selfillum" 1
+}

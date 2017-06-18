@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFLIGHTCOVER_OFF.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c4620_-8258_-1338"
+	}
+}

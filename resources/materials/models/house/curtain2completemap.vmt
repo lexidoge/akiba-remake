@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\house/curtain2CompleteMap"
+	"$model" "1"
+	"$bumpmap" "models\house\curtain2NormalsMap"
+}

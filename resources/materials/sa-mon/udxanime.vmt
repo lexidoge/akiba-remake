@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sa-mon/udxanime"
+	"$selfillum" "1"
+"$surfaceprop" "Default" "Proxies" { "AnimatedTexture" { "animatedTextureVar" "$basetexture" "animatedTextureFrameNumVar" "$frame" "animatedTextureFrameRate" "0.4" } }
+}

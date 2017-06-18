@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sa-mon/vending"
+	"$surfaceprop" "MetalPanel"
+	"$model" 1
+}

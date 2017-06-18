@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/pillow v2/pillow2 skin12.vtf"
+"$bumpmap"	"models/pillow v2/pillow2 bump.vtf"
+
+"$surfaceprop" "carpet"
+"$model" 1
+
+"$detail"	"models/pillow v2/pillow detail"
+"$detailscale"		"10" 
+"$detailblendmode"		"0"	
+
+}
+

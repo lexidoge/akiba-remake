@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/KIPPU2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c5815_-3014_-1648"
+	}
+}

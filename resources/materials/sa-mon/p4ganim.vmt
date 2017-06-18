@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sa-mon/p4ganim"
+	"$selfillum" "1"
+"$surfaceprop" "Glass" "Proxies" { "AnimatedTexture" { "animatedTextureVar" "$basetexture" "animatedTextureFrameNumVar" "$frame" "animatedTextureFrameRate" "0.2" } }
+}

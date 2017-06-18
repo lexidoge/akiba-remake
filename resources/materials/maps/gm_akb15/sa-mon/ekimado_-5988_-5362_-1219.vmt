@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/EKIMADO.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c-5988_-5362_-1219"
+	}
+}

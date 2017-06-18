@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/UDXMADO.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c2538_3254_-31"
+	}
+}

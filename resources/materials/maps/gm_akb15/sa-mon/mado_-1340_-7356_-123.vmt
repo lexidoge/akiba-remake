@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/MADO.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c-1340_-7356_-123"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SA-MON/SEGAREDKABE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c4480_-5237_-980"
+	}
+}

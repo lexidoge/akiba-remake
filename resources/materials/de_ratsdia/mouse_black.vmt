@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+	{
+	"$basetexture" "de_ratsdia/mouse_black"
+	"$bumpmap" "de_ratsdia/normal_ebene"
+	"$surfaceprop" "default"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.4"
+	"$envmaptint" "[0.95 0.95 0.95]"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" 60
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	}

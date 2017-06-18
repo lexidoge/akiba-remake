@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/CLEANUP/OFFICEWALLCU1.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c4269_-9732_-813"
+	}
+}

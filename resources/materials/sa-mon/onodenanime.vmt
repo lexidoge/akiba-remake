@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sa-mon/onodenanime"
+	"$selfillum" "1"
+	"$translucent" 1
+"$surfaceprop" "Default" "Proxies" { "AnimatedTexture" { "animatedTextureVar" "$basetexture" "animatedTextureFrameNumVar" "$frame" "animatedTextureFrameRate" "5" } }
+}

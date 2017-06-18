@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+	{
+	"$basetexture" "de_ratsdia/mouse_silver"
+
+	"$envmapmask" "de_ratsdia/mouse_silver_spec"
+	"$normalmapalphaenvmapmask" 0
+	"$envmapcontrast" 0
+	"$surfaceprop" "default"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.65 0.65 0.65]"
+	"$model" "1"
+
+	"$phong" "0"
+	"$phongexponent" 110
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	}

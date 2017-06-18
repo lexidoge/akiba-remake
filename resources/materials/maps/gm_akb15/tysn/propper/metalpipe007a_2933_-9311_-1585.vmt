@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TYSN/PROPPER/METALPIPE007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c2933_-9311_-1585"
+	}
+}

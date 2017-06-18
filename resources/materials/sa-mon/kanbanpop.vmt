@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sa-mon/kanbanpop"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .6 .6 .6]"
+}

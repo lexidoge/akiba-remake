@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/TYSN/PROPPER/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c5202_-5501_-1648"
+		"$crackmaterial"		"maps/gm_akb15/glass/glasswindowbreak070b_5202_-5501_-1648"
+	}
+}

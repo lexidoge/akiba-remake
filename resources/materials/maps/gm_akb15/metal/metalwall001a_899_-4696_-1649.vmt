@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_akb15/c899_-4696_-1649"
+	}
+}

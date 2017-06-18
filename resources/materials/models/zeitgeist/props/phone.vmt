@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/zeitgeist/props/phone"
+	"$nocull"			1
+	"$translucent"			0
+	"$surfaceprop" "Metal"
+	"$alpha"				1
+			"$bumpmap" 	"models/zeitgeist/props/phone_normal"
+"$normalmapalphaenvmapmask" 1
+	"$phong" 1
+	"$phongboost" "5"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}
+

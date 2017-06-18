@@ -1,0 +1,33 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$basetexture" "models/EG2"
+//	"$alpha" "0"
+//	"$translucent" "0"
+	
+//	"$bumpmap" "models/EG2_n"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/EG2_s"
+//	"$basetexturealphaenvmapmask" "1"
+//	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.45 .45 .45]"
+	"$surfaceprop" "Metal"
+	
+	"$selfillum" "1"
+	"$selfillummask" "models/EG2_i"
+	"$selfillumtint" "[.7 .7 .7]"
+	
+//	"$multipass" "0"
+//	"$halfambert" "1"
+//	"$model" "1" 
+
+//	"$phong" "1"
+//	"$phongexponent" "10"
+//	"$phongboost" "100"
+//	"$phongfresnelranges"	"[0.05 0.5 1]"
+//	"$phongalbedotint" "1"
+
+//	"$rimlight" "1"
+//	"$rimlightexponent" "25"
+//	"$rimlightboost" "0.5"
+}

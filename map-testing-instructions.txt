@@ -1,0 +1,6 @@
+Instructions:
+1. Clone the GitHub respository to get latest map bsp and resources folder
+2. Copy the .bsp to GarrysMod/garrysmod/maps
+3. Extract resources.zip
+4. Copy the materials folder to GarrysMod/garrysmod/
+5. Copy models folder to GarrysMod/garrysmod/

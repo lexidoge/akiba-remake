@@ -1,5 +1,4 @@
-TO DO:
-proper train station at spawn
+Random stuff:
 proper floors in all shops
 more building interiors
 neaten up textures
@@ -11,10 +10,10 @@ lights where needed (and not needed)
 more stuff on right station exit
 cubemaps in game
 door timings
-basic optimization
 new lighting
 other poster in closet
 reflections
+optimization :((((((((
 
 BUILDINGS TO ADD:
 2 more apartments in same building
@@ -30,7 +29,3 @@ Night Version
 
 SUGGESTIONS:
 replace screen on TV in apartment with "quality" gif
-
-SKYBOX:
-2d sky def: mpa02
-changed to: skybox/sky_day02_02_hdr

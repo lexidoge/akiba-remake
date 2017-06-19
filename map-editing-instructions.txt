@@ -21,7 +21,7 @@ DO run BSP and RAD on FAST if you need it, also adding -noworkshop to the game o
 
 COMMITTING YOUR CHANGES TO THE MASTER BRANCH:
 In GitHub Desktop, in the "Changes" panel, select all relevent changes (NOT .log .prt .vmx, .bsp etc...) to the map vmf ONLY and commit them to your own branch
-Then click the "Push Origin" button on the top of the window
+Then click the "Push to Origin" button on the top of the window
 
 DEBUGGING:
 Textures/Models aren't showing up:

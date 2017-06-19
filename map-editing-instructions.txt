@@ -16,10 +16,12 @@ I also recommend setting your 3D view to 3D Textured Shaded Polygons for easier 
 
 EDITING THE MAP:
 Go through the to do list adding changes from there and/or adding your own as you come up with new ideas (MAKE SURE TO ADD YOUR CHANGES TO THE TO DO LIST)
-Not really sure what else to put here this part is kinda self-explainatory 
+IMPORTANT: WHEN EXPORTING YOUR MAP TO TEST IN GAME ABSOLUTELY DO NOT RUN VIS, IT WILL KILL EVERYTHING AND YOU WILL BE VERY SAD
+DO run BSP and RAD on FAST if you need it, also adding -noworkshop to the game options is nice to disable all mods for faster load times
 
 COMMITTING YOUR CHANGES TO THE MASTER BRANCH:
-In GitHub Desktop, in the "Changes" panel, select all relevent changes to the map vmf ONLY and commit them to your own branch
+In GitHub Desktop, in the "Changes" panel, select all relevent changes (NOT .log .prt .vmx, .bsp etc...) to the map vmf ONLY and commit them to your own branch
+Then click the "Push to Origin" button on the top of the window
 
 DEBUGGING:
 Textures/Models aren't showing up:

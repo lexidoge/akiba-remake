@@ -1,23 +1,32 @@
 Random stuff:
-- proper floors in all shops
-- neaten up textures
-- add missing textures
-breakable stuff (doors in apartments, stores, windows, glass stuffs)
-lights where needed (and not needed)
++ proper floors in all shops
++ neaten up textures
++ add missing textures
+/ breakable stuff (doors in apartments, stores, windows, glass stuffs)
+/ lights where needed (and not needed)
 more stuff on right station exit
-new lighting
+/ new lighting
 make all props prop_phys (bicycles, coins, etc...)
-- finish apartment interior and other apartments
-add lights to all streetlights
-fix textures on some models
+/ finish apartment interior and other apartments
+add interior to UGX building
++ bumpmaps for some textures
+add $surfaceprop to custom textures (lexidoge/*.vmt)
+nicer car models
+get original sound files to add to bsp
+render cubemaps:
+	buildcubemaps
+	mat_hdr_level 0 (to go to LDR)
+	restart (to reload map)
+	buildcubemaps
+	mat_hdr_level 2 (to go back to HDR)
+	restart (to reload map)
+
 
 BUILDINGS TO ADD:
-2 more apartments in same building
-time cafe
+UGX interior?
 
 TRAIN STATION:
 Nicer train model
-Shops in lower part of station
 
 MULTIPLE VERSIONS:
 Rainy Version
@@ -26,9 +35,6 @@ Night Version
 LOW PRIORITY:
 optimization :((((((((
 More building interiors
-Improve 3D skybox
-reflections
-cubemaps?
 
 SUGGESTIONS:
 replace screen on TV in apartment with "quality" gif

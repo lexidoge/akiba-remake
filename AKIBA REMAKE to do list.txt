@@ -3,17 +3,15 @@ proper floors in all shops
 more building interiors
 neaten up textures
 add missing textures
-3d skybox
+improve 3d skybox
 fix lighting
 breakable stuff! (doors in apartments, stores, windows, glass stuffs)
 lights where needed (and not needed)
 more stuff on right station exit
-cubemaps in game
+cubemaps and more reflective surfaces
 door timings
 new lighting
 other poster in closet
-reflections
-optimization :((((((((
 
 BUILDINGS TO ADD:
 2 more apartments in same building

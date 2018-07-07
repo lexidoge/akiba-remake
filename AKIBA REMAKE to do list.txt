@@ -7,6 +7,7 @@ improve 3d skybox
 fix lighting
 breakable stuff! (doors in apartments, stores, windows, glass stuffs)
 lights where needed (and not needed)
+light fixtures in akiba station (if not there already)
 more stuff on right station exit
 cubemaps and more reflective surfaces
 door timings

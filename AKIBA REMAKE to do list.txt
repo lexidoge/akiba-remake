@@ -12,6 +12,7 @@ cubemaps and more reflective surfaces
 door timings
 new lighting
 other poster in closet
+connect/add more subway stations
 
 BUILDINGS TO ADD:
 2 more apartments in same building

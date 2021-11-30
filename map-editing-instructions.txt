@@ -2,24 +2,16 @@ REQUIREMENTS:
 Hammer source world editor - Comes with most source games, GMOD version highly recommended. Can be found in GarrysMod/bin/hammer.exe
 Map resources (more on this later)
 Map vmf file - Latest version is on GitHub
-GitHub Desktop - Can be found here: https://desktop.github.com/ 
+
+GitHub Desktop makes handling files much easier but is not required.
 
 SETUP:
-Create your own branch for editing (I dont know yet if this is the correct way to do this but it should work?)
-Install and set up GitHub Desktop and link it to lexidoge/akiba-remake (This respository)
-It should automatically clone everything after set up?
+Clone this repository (https://github.com/lexidoge/akiba-remake) into a new folder
 Copy the materials and models folders from the cloned repository to GarrysMod/garrysmod/ (Your installation of GMOD)
 Go to GarrysMod/bin and run hammer.exe
 In Hammer, open the vmf file from the cloned repository
 
 I also recommend setting your 3D view to 3D Textured Shaded Polygons for easier editing
-
-EDITING THE MAP:
-Go through the to do list adding changes from there and/or adding your own as you come up with new ideas (MAKE SURE TO ADD YOUR CHANGES TO THE TO DO LIST)
-Not really sure what else to put here this part is kinda self-explainatory 
-
-COMMITTING YOUR CHANGES TO THE MASTER BRANCH:
-In GitHub Desktop, in the "Changes" panel, select all relevent changes to the map vmf ONLY and commit them to your own branch
 
 DEBUGGING:
 Textures/Models aren't showing up:

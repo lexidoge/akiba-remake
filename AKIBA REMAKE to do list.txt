@@ -1,6 +1,6 @@
 Random stuff:
 proper floors in all shops
-more building interiors
+more building interiors (SEGA arcade)
 neaten up textures
 add missing textures
 improve 3d skybox
